@@ -6,11 +6,12 @@ Welcome to Sample Programs in Pascal!
 
 - [Fizz Buzz in Pascal][1]
 - [Hello World in Pascal][2]
-- [Even Odd in Pascal]
-- [Reverse String in Pascal]
-- [Factorial in Pascal]
-- [Baklava in Pascal]
-- [Prime Number in Pascal]
+- [Even Odd in Pascal](https://github.com/TheRenegadeCoder/sample-programs/issues/2217)
+- [Capitalize in Pascal](https://github.com/TheRenegadeCoder/sample-programs/issues/2248)
+- [Factorial in Pascal](https://github.com/TheRenegadeCoder/sample-programs/issues/2219)
+- [Prime in Pascal](https://github.com/TheRenegadeCoder/sample-programs-website/issues/369)
+- [Reverse String in Pascal](https://github.com/TheRenegadeCoder/sample-programs/issues/2221)
+
 
 ## Fun Facts
 
